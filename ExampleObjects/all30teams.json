@@ -1,0 +1,452 @@
+[
+    {
+        "team_id": 1,
+        "name": "Yankees",
+        "city": "New York",
+        "state": "NY",
+        "division": {
+            "division_id": 1,
+            "name": "AL East",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 2,
+        "name": "Red Sox",
+        "city": "Boston",
+        "state": "MA",
+        "division": {
+            "division_id": 1,
+            "name": "AL East",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 3,
+        "name": "Blue Jays",
+        "city": "Toronto",
+        "state": "ON",
+        "division": {
+            "division_id": 1,
+            "name": "AL East",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 4,
+        "name": "Rays",
+        "city": "Tampa Bay",
+        "state": "FL",
+        "division": {
+            "division_id": 1,
+            "name": "AL East",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 5,
+        "name": "Orioles",
+        "city": "Baltimore",
+        "state": "MD",
+        "division": {
+            "division_id": 1,
+            "name": "AL East",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 6,
+        "name": "White Sox",
+        "city": "Chicago",
+        "state": "IL",
+        "division": {
+            "division_id": 2,
+            "name": "AL Central",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 7,
+        "name": "Guardians",
+        "city": "Cleveland",
+        "state": "OH",
+        "division": {
+            "division_id": 2,
+            "name": "AL Central",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 8,
+        "name": "Tigers",
+        "city": "Detroit",
+        "state": "MI",
+        "division": {
+            "division_id": 2,
+            "name": "AL Central",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 9,
+        "name": "Royals",
+        "city": "Kansas City",
+        "state": "MO",
+        "division": {
+            "division_id": 2,
+            "name": "AL Central",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 10,
+        "name": "Twins",
+        "city": "Minneapolis",
+        "state": "MN",
+        "division": {
+            "division_id": 2,
+            "name": "AL Central",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 11,
+        "name": "Astros",
+        "city": "Houston",
+        "state": "TX",
+        "division": {
+            "division_id": 3,
+            "name": "AL West",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 12,
+        "name": "Athletics",
+        "city": "Oakland",
+        "state": "CA",
+        "division": {
+            "division_id": 3,
+            "name": "AL West",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 13,
+        "name": "Mariners",
+        "city": "Seattle",
+        "state": "WA",
+        "division": {
+            "division_id": 3,
+            "name": "AL West",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 14,
+        "name": "Rangers",
+        "city": "Arlington",
+        "state": "TX",
+        "division": {
+            "division_id": 3,
+            "name": "AL West",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 15,
+        "name": "Angels",
+        "city": "Anaheim",
+        "state": "CA",
+        "division": {
+            "division_id": 3,
+            "name": "AL West",
+            "league": {
+                "league_id": 1,
+                "name": "American League",
+                "abbreviation": "AL"
+            }
+        }
+    },
+    {
+        "team_id": 16,
+        "name": "Braves",
+        "city": "Atlanta",
+        "state": "GA",
+        "division": {
+            "division_id": 4,
+            "name": "NL East",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 17,
+        "name": "Marlins",
+        "city": "Miami",
+        "state": "FL",
+        "division": {
+            "division_id": 4,
+            "name": "NL East",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 18,
+        "name": "Mets",
+        "city": "New York",
+        "state": "NY",
+        "division": {
+            "division_id": 4,
+            "name": "NL East",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 19,
+        "name": "Phillies",
+        "city": "Philadelphia",
+        "state": "PA",
+        "division": {
+            "division_id": 4,
+            "name": "NL East",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 20,
+        "name": "Nationals",
+        "city": "Washington",
+        "state": "DC",
+        "division": {
+            "division_id": 4,
+            "name": "NL East",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 21,
+        "name": "Cubs",
+        "city": "Chicago",
+        "state": "IL",
+        "division": {
+            "division_id": 5,
+            "name": "NL Central",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 22,
+        "name": "Reds",
+        "city": "Cincinnati",
+        "state": "OH",
+        "division": {
+            "division_id": 5,
+            "name": "NL Central",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 23,
+        "name": "Brewers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "division": {
+            "division_id": 5,
+            "name": "NL Central",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 24,
+        "name": "Pirates",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "division": {
+            "division_id": 5,
+            "name": "NL Central",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 25,
+        "name": "Cardinals",
+        "city": "St. Louis",
+        "state": "MO",
+        "division": {
+            "division_id": 5,
+            "name": "NL Central",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 26,
+        "name": "Diamondbacks",
+        "city": "Phoenix",
+        "state": "AZ",
+        "division": {
+            "division_id": 6,
+            "name": "NL West",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 27,
+        "name": "Rockies",
+        "city": "Denver",
+        "state": "CO",
+        "division": {
+            "division_id": 6,
+            "name": "NL West",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 28,
+        "name": "Dodgers",
+        "city": "Los Angeles",
+        "state": "CA",
+        "division": {
+            "division_id": 6,
+            "name": "NL West",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 29,
+        "name": "Padres",
+        "city": "San Diego",
+        "state": "CA",
+        "division": {
+            "division_id": 6,
+            "name": "NL West",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    },
+    {
+        "team_id": 30,
+        "name": "Giants",
+        "city": "San Francisco",
+        "state": "CA",
+        "division": {
+            "division_id": 6,
+            "name": "NL West",
+            "league": {
+                "league_id": 2,
+                "name": "National League",
+                "abbreviation": "NL"
+            }
+        }
+    }
+]

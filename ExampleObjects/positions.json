@@ -1,0 +1,86 @@
+[
+    {
+        "position_id": 1,
+        "name": "Pitcher",
+        "abbreviation": "P",
+        "type": "Pitcher",
+        "number": 1
+    },
+    {
+        "position_id": 2,
+        "name": "Catcher",
+        "abbreviation": "C",
+        "type": "Hitter",
+        "number": 2
+    },
+    {
+        "position_id": 3,
+        "name": "First Base",
+        "abbreviation": "1B",
+        "type": "Hitter",
+        "number": 3
+    },
+    {
+        "position_id": 4,
+        "name": "Second Base",
+        "abbreviation": "2B",
+        "type": "Hitter",
+        "number": 4
+    },
+    {
+        "position_id": 5,
+        "name": "Third Base",
+        "abbreviation": "3B",
+        "type": "Hitter",
+        "number": 5
+    },
+    {
+        "position_id": 6,
+        "name": "Shortstop",
+        "abbreviation": "SS",
+        "type": "Hitter",
+        "number": 6
+    },
+    {
+        "position_id": 7,
+        "name": "Left Field",
+        "abbreviation": "LF",
+        "type": "Hitter",
+        "number": 7
+    },
+    {
+        "position_id": 8,
+        "name": "Center Field",
+        "abbreviation": "CF",
+        "type": "Hitter",
+        "number": 8
+    },
+    {
+        "position_id": 9,
+        "name": "Right Field",
+        "abbreviation": "RF",
+        "type": "Hitter",
+        "number": 9
+    },
+    {
+        "position_id": 10,
+        "name": "Designated Hitter",
+        "abbreviation": "DH",
+        "type": "Hitter",
+        "number": 10
+    },
+    {
+        "position_id": 11,
+        "name": "Pinch Runner",
+        "abbreviation": "PR",
+        "type": "Hitter",
+        "number": 11
+    },
+    {
+        "position_id": 12,
+        "name": "Pinch Hitter",
+        "abbreviation": "PH",
+        "type": "Hitter",
+        "number": 12
+    }
+]
