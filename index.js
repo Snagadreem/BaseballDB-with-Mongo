@@ -72,6 +72,7 @@
             }
         }
     }
+    active: true
 }
 
 // Team collection schema
