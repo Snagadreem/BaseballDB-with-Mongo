@@ -1,0 +1,48 @@
+{
+    "player_id": 2,
+    "name": "Jane Smith",
+    "age": 28,
+    "jersey": 12,
+    "dob": "1993-05-15",
+    "height": "5'9",
+    "weight": 150,
+    "bats": "L",
+    "throws": "L",
+    "debut": "2017-04-10",
+    "team": {
+        "team_id": 2,
+        "name": "Yankees"
+    },
+    "position": {
+        "position_id": 2,
+        "name": "Catcher"
+    },
+    "hitterStats": {
+        "year": {
+            "2017": {
+                "games": 110,
+                "avg": 0.280,
+                "obp": 0.340,
+                "slg": 0.460,
+                "ops": 0.800,
+                "hr": 15,
+                "rbi": 70,
+                "runs": 90,
+                "bbk": 1.4,
+                "strikeouts": 90
+            },
+            "2018": {
+                "games": 140,
+                "avg": 0.310,
+                "obp": 0.360,
+                "slg": 0.520,
+                "ops": 0.880,
+                "hr": 25,
+                "rbi": 90,
+                "runs": 110,
+                "bbk": 1.6,
+                "strikeouts": 110
+            }
+        }
+    }
+}

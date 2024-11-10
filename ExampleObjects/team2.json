@@ -1,0 +1,15 @@
+{
+    "team_id": 1,
+    "name": "Red Sox",
+    "city": "Boston",
+    "state": "MA",
+    "division": {
+        "division_id": 1,
+        "name": "AL East",
+        "league": {
+            "league_id": 1,
+            "name": "American League",
+            "abbreviation": "AL"
+        }
+    }
+}
